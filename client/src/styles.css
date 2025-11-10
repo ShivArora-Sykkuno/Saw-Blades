@@ -1,0 +1,9 @@
+body { font-family: Inter, system-ui, Arial; background:#0b1220; color:#e6eef8; margin:0; padding:12px; }
+.nav { display:flex; gap:12px; align-items:center; padding:8px 0; }
+.nav a { color:#dbeafe; text-decoration:none; background:transparent; padding:6px 10px; border-radius:6px; }
+.btn { background:#7c3aed; color:white; padding:8px 12px; border:none; border-radius:8px; cursor:pointer; text-decoration:none; }
+.small { padding:6px 8px; font-size:14px; margin-left:6px; }
+.center-col { display:flex; flex-direction:column; align-items:center; gap:12px; padding-top:18px; }
+.card { background:#071129; padding:12px; border-radius:8px; min-width:280px; }
+input { padding:8px; margin:6px 0; border-radius:6px; border:1px solid #132; width:100%; background:#081226; color:#fff; }
+.error { color:#ff7b7b; margin-top:6px; }
